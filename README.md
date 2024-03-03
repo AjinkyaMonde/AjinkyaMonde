@@ -1,3 +1,7 @@
-- 👋 Hi, I’m @AjinkyaMonde
-- 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Machine learning
+Hello, Developers!
+Ajinkya Monde here.
+I'm a Python Developer and currently learning Machine Learning
+Creating new projects weekly and understanding the age of AI eagerly.
+
+
+
